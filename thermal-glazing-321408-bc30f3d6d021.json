@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "thermal-glazing-321408",
+  "private_key_id": "bc30f3d6d021737e87fb3a024f840191525a7d59",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC4/C/7v9nTWDPW\n2JMgtq60ZS5YCcM3YiFam1WVUgRJTQupPavsa5SvZomla2s7ph+ar6IlK244bjdz\nJYqRCPP7zhcrGM8mglRmiyNJYk62aiV5YdEPa9GL88aM3lZQNY1U3lgVqA0H8Gd/\nqSEn8N1e039pNaK4SBgTZC8RsAHlmy77mPnPh2XYeK8bYlfHK1k8Ec7taKGwIzqI\nRpIYZv7yUVSLkxB6zniez+rQOIfk0euLR6prYx17cLR1Ig1ckZmb2YiEu/9898uU\n3ybxbvf2ynEjC1EG2v+dUNS1rCnCYs2fn7n43NriBZzDvD0xtg+jfRNjkRMVQfiJ\nUc3i45VTAgMBAAECggEASRdkQj3I7MgSG5cRc0CbgS3lhOW+m9iLQ0jTJR/2D5yA\nugtjLhRH+JI0Wwc5pKT8Idu53qPtdiCeikHQIYR/GwSQhPfVieq/PJFHjQxp+4uv\naOmseEJq1riowCptwl2WjW0ZMt1m4LctvfRu5GA4p+o7kq+druDVmnvgWUXJShY8\nDRcbrA3yLTdeba7ALr+6GuYqf+jOhhusGfNOodMIFQJrMj9LIelltUoN9mcg1U5C\nnvF03bvrBEJ/vosKT7QEBpIdw9G3Gmg/t4AwmMJLml0RqGfylbPmvI6T9wCsTJ6t\n5eTfLECmFHwTeXyNZm+p/DsOO4vLC8zMVz5VLHReqQKBgQD+FrGbzhfVEeuE0YIC\n/LwSOxHvpfseCH6TOApKM2/9a0z9WegZdNMOdyJKQCc7UcGi4TPZ+cYmoLYBSgVN\nLkuGytVHSsoUlCLzEJ+IrQT8LLTriKWdE8/dGQTlo8IA/M2it6/wLk/g120U4Aba\ncitYzc9KmejoXbkWnFB84g9ZJQKBgQC6YGs65gaGDrbjUN+1sGzgYVYu/+Yj0e8S\n6s9mUouk4nLGpKDRbLF17rJ9GM0QJX7KiSfvLYAMyjReKFipamhSUZ+Kv++ni2eN\nz1qdu+DhPR8pHTlBVWpBHBMQYVzf1FU6rbM3MHfRNee6hToeCkKcYW2UXaQv0nnO\nC2Nm5ytXFwKBgQDv3SSV3R0Ke/xGSjHd+BDjdPgdsCc71vEGsaSlH6HdLmpj0XgW\nb/6+bSDlz2I50Zhm1wpIAE9bL+Qhm2sdzVJnURu+TZAvlRjZNRwlvpAyL1Ir97fA\nbW+RXYkN8GW44O6PabChoFav/y5uwn41wgnBr6i82EbS9YdBHReujQnIMQKBgFAg\nw/k+i+92xApW6tciUqzlLDhorHkZ+L8ZVLGZK5BoCxB8Fufy4xjg1rwRvZgDhs9s\nyE58MWFOTdVtYzDzHobFsOHmQxK1TIAbdcn6zGQJ8yup9MOyBUyY1Vllgph4oWvo\n4fQIUnsPweDfBm2D279/46y11bD5vIRpQQMsv+VhAoGACBZpS7jvnlPEnv64gLO1\n2xbQR/I+LRwTg29qAhr6DgLxabnE2i++ZWjhrQtm6jQeiefdZgPWZfCEI5cWapZP\nAhmDn6RG0H6FbnW1hDKPk2X+683T0Z5NR5cKmkZTCrHVXjvL1YLk7Hsl/v5tOFEo\nqP8zou40a/JRnE1n3I/gzIE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "gmail-controller29@thermal-glazing-321408.iam.gserviceaccount.com",
+  "client_id": "114283327205362798686",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gmail-controller29%40thermal-glazing-321408.iam.gserviceaccount.com"
+}
